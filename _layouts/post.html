@@ -1,0 +1,22 @@
+---
+layout: default
+---
+
+<article class="post">
+  <h1>{{ page.title }}</h1>
+
+  <div class="entry">
+    {{ content }}
+  </div>
+
+  <div class="date">
+    Written on {{ page.date | date: "%B %e, %Y" }}
+  </div>
+
+  {% raw %}
+    <iframe src="//tools.applemusic.com/embed/v1/playlist/pl.49fa4124be174a3da9e5ec43b0d07e65?country=us" height="200px" width="100%" frameborder="0"></iframe>
+  {% endraw %}
+
+
+  {% include disqus.html %}
+</article>
