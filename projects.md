@@ -4,17 +4,29 @@ title: Projects
 permalink: /projects/
 ---
 
-## Major Goal for 2017 - Deploy a full stack minimally viable product
+## Major Goals for 2017
+### Deploy a full stack MEAN app
+### Learn Python, Ubuntu, Git
 
 Below are a list of the areas I've identified as vital to deploy a minimally viable full stack product. While I am tracking my progress on a scale to 100%, it is in no means an indicator of mastery over the topic. It is an indicator of general comfort with the language with the measure of success being within the scope of this project. Under each section I'll list my known skills as well as identified areas for future development.
 
-### HTML ( 0% / 100% )
+## MEAN stack
 
-### CSS ( 0% / 100% )
+### MongoDB ( 0% / 100% )
 
-### Javascript ( 0% / 100% )
+### Express ( 0% / 100% )
 
-### One general-purpose programming language - Python - ( 80% / 100% )
+### AngularJS ( 0% / 100% )
+
+
+### NodeJS ( 0% / 100% )
+
+### One web server (nginx, Apache, etc) ( 0% / 100% )
+
+
+
+
+### Python - ( 80% / 100% )
 
 
 Built-in Functions
@@ -81,9 +93,6 @@ Importing Modules
 Undocumented Modules
 •	Pandas, NP
 
-### One relational database system (Postgres, MySQL, Oracle, etc) ( 0% / 100% )
-
-### One web server (nginx, Apache, etc) ( 0% / 100% )
 
 ### One deployment operating system - Ubuntu - ( 30% / 100% )
 
